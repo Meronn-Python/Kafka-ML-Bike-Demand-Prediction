@@ -171,6 +171,6 @@ python Producer.py
 Video link: 
 
 ```
-https://drive.google.com/file/d/1vyo1FyT8xhzTC5X12q3PZ7RaNd4jyfjl/view?usp=drive_linkxxxxxxxxxx https://drive.google.com/file/d/1vyo1FyT8xhzTC5X12q3PZ7RaNd4jyfjl/view?usp=drive_link
+https://drive.google.com/file/d/1vyo1FyT8xhzTC5X12q3PZ7RaNd4jyfjl/view?usp=drive_link
 ```
 
