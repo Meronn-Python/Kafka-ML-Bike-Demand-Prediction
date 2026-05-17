@@ -1,0 +1,4 @@
+.env
+Main/__pycache__/
+Main/bike-demand-stream-processor-data/
+*.pyc
